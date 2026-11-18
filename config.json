@@ -1,0 +1,34 @@
+{
+  "telegram_bot_token": "SET_IN_GITHUB_SECRETS",
+  "telegram_chat_id": "SET_IN_GITHUB_SECRETS",
+  "check_every_minutes": 60,
+  "send_existing_on_first_run": false,
+  "searches": [
+    {
+      "name": "Բնակարան վարձով, Երևան (սեփականատեր)",
+      "url": "https://www.list.am/category/56?n=1&cmtype=0"
+    }
+  ],
+  "check_item_page": false,
+  "exclude_keywords": [
+    "գործակալություն",
+    "գործակալ",
+    "միջնորդավճար",
+    "միջնորդ",
+    "ռիելթոր",
+    "ռիելթ",
+    "агентство",
+    "агент",
+    "риелтор",
+    "риэлтор",
+    "комиссия",
+    "realty",
+    "real estate",
+    "agency",
+    "estate",
+    "օրավարձ",
+    "օրական",
+    "посуточно",
+    "daily"
+  ]
+}
